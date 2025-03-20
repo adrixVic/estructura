@@ -1,1 +1,1 @@
-# estructura
+#calculadora diseño
